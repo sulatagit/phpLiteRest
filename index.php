@@ -12,13 +12,9 @@
 #############################################
 #############################################
 /* DATABASE CONFIGURATIONS */
-define('DB_NAME', 'DB_NAME'); //Database name
-define('DB_USER', 'DB_USER'); //Database user
-define('DB_PASSWORD', 'DB_PASSWORD'); //Database password
-define('DB_PATH', './db/countries.sqlite'); //Database host, leave unchanged if in doubt
-define('DB_PORT', 3306); //Database port, leave unchanged if in doubt
+define('DB_PATH', 'DB_PATH'); //Database host, leave unchanged if in doubt
 /* API KEY */
-define('API_KEY', 'aquickbrownfoxjumpsoverthelazydog'); //API Key, must be at least 32 characters
+define('API_KEY', 'API_KEY'); //API Key, must be at least 32 characters
 #############################################
 #############################################
 
